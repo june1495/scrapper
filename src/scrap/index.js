@@ -30,11 +30,7 @@ dotenv.config();
 // };
 // createProduct();
 const data = [
-  {
-    name: 'franco',
-    dni: '61363659',
-  },
-  { name: 'mario', dni: '42541772' },
+ 
 ];
 
 const reniecLogin = async () => {
